@@ -17,7 +17,7 @@ function hOneFun() {
 }
 
 function easyFreeWorksBoxFun() {
-  easyFreeWorksBox.style.marginLeft = '5.821vw';
+  easyFreeWorksBox.style.marginLeft = '4.821vw';
   easyFreeWorksBox.style.opacity = '1';
 }
 
